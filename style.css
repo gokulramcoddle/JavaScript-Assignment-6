@@ -1,0 +1,31 @@
+body{
+    max-width: 800px;
+    margin: auto;
+}
+.card-div{
+    border: 1px solid lightgrey;
+    padding: 10px;
+    margin: 20px 0px;
+}
+.sort-div{
+    margin: 20px 0px;
+    padding: 20px 0px;
+}
+.sort-div button{
+    padding: 10px;
+}
+
+.metadata{
+    text-align: center;
+    background-color: rgba(211, 211, 211, 0.532);
+    padding: 10px;
+}
+h1{
+    font-size: 40px;
+    text-align: center;
+    padding-bottom: 5px;
+}
+#description{
+    font-size: 18px;
+    text-align: center;
+}
